@@ -7,11 +7,9 @@ div{
     margin:5px;
 }
 
-body{
+/* Universal selector */
+*{
     border-bottom: 2px #0000009e solid;
-}
-article,h1,header,footer{
-    border-bottom: inherit;
 }
 article,h1,header,footer{
     margin: 20px;
