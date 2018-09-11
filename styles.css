@@ -1,0 +1,18 @@
+/* extrenal style sheet, from html will take the default styles */
+body {
+    display: block;
+    margin: 10px;
+}
+div{
+    margin:5px;
+}
+
+body{
+    border-bottom: 2px #0000009e solid;
+}
+article,h1,header,footer{
+    border-bottom: inherit;
+}
+article,h1,header,footer{
+    margin: 20px;
+}
